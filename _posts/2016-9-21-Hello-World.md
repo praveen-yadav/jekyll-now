@@ -3,17 +3,11 @@ layout: post
 title: Some of my to-read articles
 published: true
 ---
-						** Today I Learned **
-
-
+### Today I learned
 
 
 
 Google store Billion LOC in single repository . Why ? ###
-
-
-
-
 
 [https://archive.is/CLrJ8](https://archive.is/CLrJ8)
 
