@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## How I setup this jekyll-scss based blog in easy steps
 
