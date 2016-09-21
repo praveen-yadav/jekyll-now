@@ -2,14 +2,24 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hi!
+
+If you are Recruiter , You should check my github for all the projects I worked with.
+I am very Much Interested in Development be it Web-based or writing some scripts to automate the boring part.
+Currently My Target is to solve the entire [geeks-for-geeks](geeksforgeeks.org)] . Its been one month and doing good so far.
+I have finished [InterviewBit](interviewbit.com) with under 1000 rank.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Basketball for life.
+My Mornings generally starts with 2 hours(atleast) of NBA streaming .
+Besides that I like reading blogs and checking out new technologies out there. 
+Whats best to kill your time on reddit :p
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mailmeonlypraveen@gmail.com](mailto:mailmeonlypraveen@gmail.com)
