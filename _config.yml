@@ -17,24 +17,15 @@ avatar: https://avatars1.githubusercontent.com/u/15321352?v=3&u=9ec46a0690929ed8
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook: https://www.facebook.com/Praveenky.draco
-  flickr:
+  email:mailmeonlypraveen@gmail.com
+  facebook: Praveenky.draco
   github: praveen-yadav
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: user/pkyadav17
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus:@disqus_RETxRT8vlD
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -47,7 +38,7 @@ url: https://web.iiit.ac.in/~praveen.yadav/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "https://github.com/praveen-yadav/praveen-yadav.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
