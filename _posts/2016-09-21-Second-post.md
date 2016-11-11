@@ -1,6 +1,9 @@
 ---
 published: true
 ---
-How I setup this jekyll-scss based blog in easy steps
+Internals of Application server IoT Project 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Functional Scope Document:
+
+1. Intro to the Project
+Internet of things platform that enables its users to develop applications over it. The project provides the underlying low level functionality for accessing IOT devices and services required to communicate, and data storage.	 
