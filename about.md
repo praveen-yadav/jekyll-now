@@ -19,6 +19,7 @@ Basketball for life.
 My Mornings generally starts with 2 hours(atleast) of NBA streaming .
 Besides that I like reading blogs and checking out new technologies out there. 
 Whats best to kill your time on reddit :p
+Also active player on chess.com
 
 ### Contact me
 
