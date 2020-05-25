@@ -22,4 +22,4 @@ Whats best to kill your time on reddit :p
 
 ### Contact me
 
-[mailmeonlypraveen@gmail.com](mailto:mailmeonlypraveen@gmail.com)
+[mailmeonlypraveen@gmail.com](mailto:sudomailpraveen@gmail.com)
